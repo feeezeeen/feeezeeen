@@ -2,7 +2,7 @@
 
 **Full Stack Developer | React & Node.js Enthusiast**
 
-Building intuitive and efficient web applications with modern technologies. Passionate about clean code, user experience, and continuous learning.
+I'm learning to build web applications using modern technologies. I enjoy creating simple, user-friendly websites and improving my skills through personal projects.
 
 ---
 
