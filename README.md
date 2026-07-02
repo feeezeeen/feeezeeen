@@ -42,7 +42,7 @@ I'm still learning and improving my skills, especially in connecting the fronten
         <p><b>Create Update Delete Note</b></p>
         <p>This project was built using React, Express, Mongoose, and MongoDB. I only know the basic concepts, such as connecting the database and connecting the frontend to the backend.</p>
         <br/>
-        <code>React</code> • <code>Node.js</code> • <code>MongoDb</code> • <code>Stripe</code>
+        <code>React</code> • <code>Node.js</code> • <code>MongoDb</code> 
         <br/><br/>
         <a href="https://github.com/feeezeeen">
           <img alt="GitHub" src="https://img.shields.io/badge/Code-323330?style=flat-square&logo=github"/>
