@@ -32,9 +32,6 @@ When I'm not coding, I'm exploring new technologies, contributing to open-source
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0066CC?style=for-the-badge)
 
 ---
 
@@ -48,38 +45,6 @@ When I'm not coding, I'm exploring new technologies, contributing to open-source
         <p>Full-featured marketplace with secure payments, inventory management & real-time notifications</p>
         <br/>
         <code>React</code> • <code>Node.js</code> • <code>PostgreSQL</code> • <code>Stripe</code>
-        <br/><br/>
-        <a href="https://github.com/zeen2">
-          <img alt="GitHub" src="https://img.shields.io/badge/Code-323330?style=flat-square&logo=github"/>
-        </a>
-        <a href="#">
-          <img alt="Live" src="https://img.shields.io/badge/Live%20Demo-3498DB?style=flat-square"/>
-        </a>
-      </div>
-    </td>
-    <td width="33%">
-      <div align="center">
-        <h3>✅ Task Manager</h3>
-        <p><b>Collaborative Workspace</b></p>
-        <p>Real-time task management with team collaboration, progress tracking & productivity insights</p>
-        <br/>
-        <code>React</code> • <code>Firebase</code> • <code>Tailwind</code>
-        <br/><br/>
-        <a href="https://github.com/zeen2">
-          <img alt="GitHub" src="https://img.shields.io/badge/Code-323330?style=flat-square&logo=github"/>
-        </a>
-        <a href="#">
-          <img alt="Live" src="https://img.shields.io/badge/Live%20Demo-3498DB?style=flat-square"/>
-        </a>
-      </div>
-    </td>
-    <td width="33%">
-      <div align="center">
-        <h3>🌤️ Weather App</h3>
-        <p><b>Smart Weather Dashboard</b></p>
-        <p>Interactive weather platform with forecasting, alerts & beautiful data visualizations</p>
-        <br/>
-        <code>React</code> • <code>Chart.js</code> • <code>API</code>
         <br/><br/>
         <a href="https://github.com/zeen2">
           <img alt="GitHub" src="https://img.shields.io/badge/Code-323330?style=flat-square&logo=github"/>
