@@ -1,4 +1,4 @@
-# Hi, I'm Zeen2 👋
+# Hi, I'm Hafizin 👋
 
 **Full Stack Developer | React & Node.js Enthusiast**
 
@@ -8,11 +8,9 @@ Building intuitive and efficient web applications with modern technologies. Pass
 
 ## About Me
 
-I'm a junior full-stack developer with a passion for creating elegant solutions to complex problems. With expertise in both frontend and backend technologies, I enjoy working across the entire application stack to deliver complete, user-focused products.
+I'm a junior full-stack developer who enjoys building web applications and learning new technologies. I have experience with frontend and backend development using React, Express, MongoDB, and Mongoose.
 
-Currently focused on building with **React**, **Node.js**, and **PostgreSQL**, while continuously expanding my knowledge of modern web development practices, architectural patterns, and best practices.
-
-When I'm not coding, I'm exploring new technologies, contributing to open-source projects, and sharing knowledge with the developer community.
+I'm still learning and improving my skills, especially in connecting the frontend with the backend, working with databases, and building complete web applications. I enjoy solving problems and creating projects that help me gain more experience.
 
 ---
 
@@ -40,13 +38,13 @@ When I'm not coding, I'm exploring new technologies, contributing to open-source
   <tr>
     <td width="33%">
       <div align="center">
-        <h3>🛍️ E-Commerce</h3>
-        <p><b>Modern Shopping Platform</b></p>
-        <p>Full-featured marketplace with secure payments, inventory management & real-time notifications</p>
+        <h3>🛍️ ThinkBoard</h3>
+        <p><b>Create Update Delete Note</b></p>
+        <p>This project was built using React, Express, Mongoose, and MongoDB. I only know the basic concepts, such as connecting the database and connecting the frontend to the backend.</p>
         <br/>
-        <code>React</code> • <code>Node.js</code> • <code>PostgreSQL</code> • <code>Stripe</code>
+        <code>React</code> • <code>Node.js</code> • <code>MongoDb</code> • <code>Stripe</code>
         <br/><br/>
-        <a href="https://github.com/zeen2">
+        <a href="https://github.com/feeezeeen">
           <img alt="GitHub" src="https://img.shields.io/badge/Code-323330?style=flat-square&logo=github"/>
         </a>
         <a href="#">
@@ -64,16 +62,15 @@ When I'm not coding, I'm exploring new technologies, contributing to open-source
 
 I'm always interested in hearing about new projects and opportunities. Feel free to reach out if you'd like to collaborate or just chat about web development!
 
-- **Email:** zeen2@email.com
-- **GitHub:** [github.com/zeen2](https://github.com/zeen2)
-- **LinkedIn:** [LinkedIn Profile](#)
-- **Twitter:** [Twitter Profile](#)
+- **Email:** feeezeeen@gmail.com
+- **GitHub:** [github.com/feeezeeen](https://github.com/feeezeeen)
+- **Telegram:** [(https://t.me/feeezeen)](#)
 
 ---
 
 ## 📄 License
 
-© 2024 Zeen2. All rights reserved.
+© 2024 feeezeeen. All rights reserved.
 
 ---
 
